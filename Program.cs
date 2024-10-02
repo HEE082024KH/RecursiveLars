@@ -16,7 +16,7 @@ public class recTest
     {
         // Todo: Implement a recursive method(a method that calls itself within its own function scope)
         // To Check the factorial of a number(norsk: Fakultet) we look at n!, where n = n * 1 * 2 * 3...
-        if (n == 24068)
+        if (n == 24069)
         {
             return 1;
         }
